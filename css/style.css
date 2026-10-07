@@ -1,0 +1,28 @@
+.hero-bg{
+    background-color: #dbdbdb;
+}
+
+.footer-bg{
+    background-color: #2b3e8e ;
+}
+
+
+h1{
+  font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal; 
+  color: #2b3e8e;
+}
+
+h2{
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+   color: #2b3e8e;
+}
+
+p{
+  font-family: "Krub", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
